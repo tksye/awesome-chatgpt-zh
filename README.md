@@ -14,7 +14,7 @@ awesome-chatgpt-zh
 
 - 目录
 - 网络安全
--- [Table of Contents](###chatGPT)
+-- [ChatGPT](###ChatGPT)
 -- [Table of Contents](###ChatGPT绘画)
 
 
