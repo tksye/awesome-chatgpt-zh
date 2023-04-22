@@ -14,6 +14,10 @@ awesome-chatgpt-zh
 
 - 目录
 - 网络安全
+-- [Table of Contents](###chatGPT)
+-- [Table of Contents](###ChatGPT绘画)
+
+
   - sql注册
     - [MySql](https://github.com/CHYbeta/Web-Security-Learning#mysql)
     - [微软数据库](https://github.com/CHYbeta/Web-Security-Learning#mssql)
