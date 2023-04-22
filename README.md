@@ -1,5 +1,3 @@
-# chatgpt
-awesome-chatgpt-zh
 # [ChatGPT学习](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
 
 
@@ -10,68 +8,76 @@ awesome-chatgpt-zh
 
 ## 目录
 
-#### 目录：
-
 - 目录
-- 网络安全
--- [ChatGPT](###ChatGPT)
--- [Table of Contents](###ChatGPT绘画)
+
+- [ChatGPT创作](#ChatGPT创作)
+
+  - [AirOps](https://github.com/CHYbeta/Web-Security-Learning#xss)
+  - [Writesonic](#Writesonic)
+  - [Copy](#Copy)
+  - [Character.AI](#Character.AI)
+
+  - [Fireflies](#Fireflies)
+  - [JJasper](#JJasper)
+  - [cowriter](#cowriter)
+  - [grammarly](#grammarly)
+
+- [ChatGPT绘画](#ChatGPT绘画)
+
+  - [midjourney](#midjourney)
+
+  - [Writesonic](#Writesonic)
+
+  - [PhotoRoom](#PhotoRoom)
+
+  - [Character.AI](#Character.AI)
+
+  - [printidea](#printidea)
+
+  - [JJasper](#JJasper)
+
+  - [Outpla](#Outpla)
+
+  - [cowriter](#cowriter)
+
+  - [grammarly](#grammarly)
+
+  - [getimg](#getimg)
+
+  - [dreamlike](#dreamlike)
+
+  - [文心一格](#文心一格)
+
+  - [Phygital+](#Phygital+)
+
+  - [Beautiful.ai](#Beautiful.ai)
 
 
-  - sql注册
-    - [MySql](https://github.com/CHYbeta/Web-Security-Learning#mysql)
-    - [微软数据库](https://github.com/CHYbeta/Web-Security-Learning#mssql)
-    - [数据库](https://github.com/CHYbeta/Web-Security-Learning#postgresql)
-    - [数据库](https://github.com/CHYbeta/Web-Security-Learning#mongodb)
-    - [技巧](https://github.com/CHYbeta/Web-Security-Learning#技巧)
-    - [工具](https://github.com/CHYbeta/Web-Security-Learning#工具)
-  - [跨站脚本](https://github.com/CHYbeta/Web-Security-Learning#xss)
-  - [CSRF](https://github.com/CHYbeta/Web-Security-Learning#csrf)
-  - [其他前端安全](https://github.com/CHYbeta/Web-Security-Learning#其他前端安全)
-  - [SSRF](https://github.com/CHYbeta/Web-Security-Learning#ssrf)
-  - [XXE](https://github.com/CHYbeta/Web-Security-Learning#xxe)
-  - [JSONP注册](https://github.com/CHYbeta/Web-Security-Learning#jsonp注入)
-  - [SSTI](https://github.com/CHYbeta/Web-Security-Learning#ssti)
-  - [代号执行 / 命令执行](https://github.com/CHYbeta/Web-Security-Learning#代码执行--命令执行)
-  - [文件包含](https://github.com/CHYbeta/Web-Security-Learning#文件包含)
-  - [文件上传 / 解析漏洞](https://github.com/CHYbeta/Web-Security-Learning#文件上传--解析漏洞)
-  - [总编辑漏洞](https://github.com/CHYbeta/Web-Security-Learning#逻辑漏洞)
-  - 未授权访问/信息泄露
-    - [雷迪斯](https://github.com/CHYbeta/Web-Security-Learning#redis)
-  - [RPO（相对路径覆盖）](https://github.com/CHYbeta/Web-Security-Learning#rporelative-path-overwrite)
-  - [网页缓存](https://github.com/CHYbeta/Web-Security-Learning#web-cache)
-  - PHP相关
-    - [弱类型](https://github.com/CHYbeta/Web-Security-Learning#弱类型)
-    - [随机数问题](https://github.com/CHYbeta/Web-Security-Learning#随机数问题)
-    - [假协议](https://github.com/CHYbeta/Web-Security-Learning#伪协议)
-    - [序列化](https://github.com/CHYbeta/Web-Security-Learning#序列化)
-    - [php邮件头注入](https://github.com/CHYbeta/Web-Security-Learning#php-mail-header-injection)
-    - [其他](https://github.com/CHYbeta/Web-Security-Learning#其他)
-    - [php代码审核](https://github.com/CHYbeta/Web-Security-Learning#php代码审计)
-  - java-Web
-    - [反序列](https://github.com/CHYbeta/Web-Security-Learning#反序列)
-    - [结构2](https://github.com/CHYbeta/Web-Security-Learning#struct2)
-    - [java-Web代码审查](https://github.com/CHYbeta/Web-Security-Learning#java-web代码审计)
-    - [其他](https://github.com/CHYbeta/Web-Security-Learning#其他-1)
-  - [python-Web](https://github.com/CHYbeta/Web-Security-Learning#python-web)
-  - [节点js](https://github.com/CHYbeta/Web-Security-Learning#node-js)
-  - [WAF相关](https://github.com/CHYbeta/Web-Security-Learning#waf相关)
-- 尿透测试
-  - [课程](https://github.com/CHYbeta/Web-Security-Learning#course)
-  - [信息收集](https://github.com/CHYbeta/Web-Security-Learning#信息收集)
-  - [汗透](https://github.com/CHYbeta/Web-Security-Learning#渗透)
-  - [渗透实战](https://github.com/CHYbeta/Web-Security-Learning#渗透实战)
-  - [提权](https://github.com/CHYbeta/Web-Security-Learning#提权)
-  - [透透技巧](https://github.com/CHYbeta/Web-Security-Learning#渗透技巧)
-  - [运维](https://github.com/CHYbeta/Web-Security-Learning#运维)
-  - [DDOS攻击](https://github.com/CHYbeta/Web-Security-Learning#ddos)
-- 周大福
-  - [技巧总结](https://github.com/CHYbeta/Web-Security-Learning#技巧总结)
-- [杂](https://github.com/CHYbeta/Web-Security-Learning#杂)
 
-[ChatGPT创作](https://github.com/OpenMindClub/awesome-chatgpt#general)
+[ChatGPT绘画](#ChatGPT绘画)
 
-### ChatGPT
+- [midjourney](#midjourney)
+- [Writesonic](#Writesonic)
+- [PhotoRoom](#PhotoRoom)
+- [Character.AI](#Character.AI)
+
+- [printidea](#printidea)
+- [JJasper](#JJasper)
+- [Outpla](#Outpla)
+- [cowriter](#cowriter)
+
+- [grammarly](#grammarly)
+
+- [getimg](#getimg)
+- [dreamlike](#dreamlike)
+- [文心一格](#文心一格)
+- [Phygital+](#Phygital+)
+
+- [Beautiful.ai](#Beautiful.ai)
+
+
+
+### ChatGPT创作
 
 | 名称                                                         | 简述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -85,7 +91,26 @@ awesome-chatgpt-zh
 | [cowriter](https://cowriter.org/login)                       | AI辅助写作                                                   |
 | [grammarly](https://www.grammarly.com/a?utm_source=google&utm_medium=cpc&utm_campaign=11862360197&utm_content=487950050355&utm_term=writing%20assistant&matchtype=b&placement=&network=g&utm_source=google&utm_medium=cpc&utm_campaign=11862360197&utm_content=487950050355&utm_term=writing%20assistant&target=&targetid=kwd-298492197778&adgroup=121005009251&device=c&matchtype=b&placement=&network=g&extension=&clickid=EAIaIQobChMI0rj9isO-_gIVqphmAh1lKAozEAAYASAAEgKwDvD_BwE&gclid=EAIaIQobChMI0rj9isO-_gIVqphmAh1lKAozEAAYASAAEgKwDvD_BwE&gclsrc=aw.ds) | 使用 Grammarly 的新人工智能桌面应用程序撰写大胆、清晰、无错误的文章。 |
 
-### 机器学习/人工智能
+### ChatGPT绘画
+
+| 名称                                                         | 简述                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [midjourney ](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)&&[midjourney 教程](https://www.uisdc.com/midjourney) | AI绘画神器                                                   |
+| [Writesonic](https://writesonic.com/)                        | 人工智能写作辅助工具，以 10 倍的速度为您的博客、广告、电子邮件和网站创建 SEO 优化且无抄袭的内容。 |
+| [PhotoRoom](https://www.photoroom.com/)                      | 擦除任何背景、对象。                                         |
+| [Character.AI](https://beta.character.ai/)                   | AI人工交互。                                                 |
+| [printidea](https://printidea.art/)                          | 只需一句话，让你的文字变成画作。                             |
+| [JJasper](https://www.jasper.ai/)                            | 一款提供照片修复、抠图、画质增强的在线工具                   |
+| [Outpla](https://outplayhq.com/)                             | 人工智能合成创意工具                                         |
+| [cowriter](https://cowriter.org/login)                       | 生成各种各样的设计元素,包括logo、插画、图片壁纸等            |
+| [grammarly](https://www.grammarly.com/a?utm_source=google&utm_medium=cpc&utm_campaign=11862360197&utm_content=487950050355&utm_term=writing%20assistant&matchtype=b&placement=&network=g&utm_source=google&utm_medium=cpc&utm_campaign=11862360197&utm_content=487950050355&utm_term=writing%20assistant&target=&targetid=kwd-298492197778&adgroup=121005009251&device=c&matchtype=b&placement=&network=g&extension=&clickid=EAIaIQobChMI0rj9isO-_gIVqphmAh1lKAozEAAYASAAEgKwDvD_BwE&gclid=EAIaIQobChMI0rj9isO-_gIVqphmAh1lKAozEAAYASAAEgKwDvD_BwE&gclsrc=aw.ds) | 二次元ai绘画                                                 |
+| [getimg](https://getimg.ai/)                                 | 关键词生成图片的AI工具                                       |
+| [dreamlike](https://dreamlike.art/)                          | AI图像生成                                                   |
+| [文心一格](https://yige.baidu.com/)                          | AI艺术和创意辅助平台                                         |
+| [Phygital+](https://phygital.plus/)                          | AI图像生成                                                   |
+| [Beautiful.ai](https://www.beautiful.ai/)                    | AI生成PPT                                                    |
+
+
 
 ### ChatGPT绘画
 
@@ -129,51 +154,53 @@ awesome-chatgpt-zh
 | [Beautiful.ai](https://www.beautiful.ai/)                    | AI生成PPT                                                    |
 |                                                              |                                                              |
 
-### 机器学习/人工智能
+### ChatGPT音频
 
-### ChatGPT绘画
+| 名称                                      | 简述                                                 |
+| ----------------------------------------- | ---------------------------------------------------- |
+| [Brain.fm](https://www.brain.fm/)         | 专注、放松、冥想和睡眠，聆听为您的大脑量身打造的音乐 |
+| [Soundraw](https://soundraw.io/)          | 人工智能生成音乐                                     |
+| [Riffusion](https://www.riffusion.com/)   | 实时音乐和音频生成库                                 |
+| [Papercup](https://www.papercup.com/)     | 人工智障配音和视频翻译软件                           |
+| [LALAL.AI](https://www.lalal.ai/)         | 从任何音频和视频中提取人声、伴奏和各种乐器           |
+| [Murf](https://murf.ai//)                 | 使用多功能AI语音生成器从文本到语音                   |
+| [PolyAI](https://poly.ai/)                | 语音助手                                             |
+| [Voicemod](https://www.voicemod.net/zh/)  | 语音实时变声器                                       |
+| [Boomy](https://boomy.com/)               | 创建生成音乐与世界分享                               |
+| [Mubert](https://mubert.com/)             | 人工智障生成音乐                                     |
+| [dreamlike](https://dreamlike.art/)       | 111111AI图像生成                                     |
+| [文心一格](https://yige.baidu.com/)       | AI艺术和创意辅助平台                                 |
+| [Phygital+](https://phygital.plus/)       | AI图像生成                                           |
+| [Beautiful.ai](https://www.beautiful.ai/) | AI生成PPT                                            |
+|                                           |                                                      |
 
-| 名称                                                         | 简述                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [midjourney ](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)&&[midjourney 教程](https://www.uisdc.com/midjourney) | AI绘画神器                                                   |
-| [Writesonic](https://writesonic.com/)                        | 人工智能写作辅助工具，以 10 倍的速度为您的博客、广告、电子邮件和网站创建 SEO 优化且无抄袭的内容。 |
-| [PhotoRoom](https://www.photoroom.com/)                      | 擦除任何背景、对象。                                         |
-| [Character.AI](https://beta.character.ai/)                   | AI人工交互。                                                 |
-| [printidea](https://printidea.art/)                          | 只需一句话，让你的文字变成画作。                             |
-| [JJasper](https://www.jasper.ai/)                            | 一款提供照片修复、抠图、画质增强的在线工具                   |
-| [Outpla](https://outplayhq.com/)                             | 人工智能合成创意工具                                         |
-| [cowriter](https://cowriter.org/login)                       | 生成各种各样的设计元素,包括logo、插画、图片壁纸等            |
-| [grammarly](https://www.grammarly.com/a?utm_source=google&utm_medium=cpc&utm_campaign=11862360197&utm_content=487950050355&utm_term=writing%20assistant&matchtype=b&placement=&network=g&utm_source=google&utm_medium=cpc&utm_campaign=11862360197&utm_content=487950050355&utm_term=writing%20assistant&target=&targetid=kwd-298492197778&adgroup=121005009251&device=c&matchtype=b&placement=&network=g&extension=&clickid=EAIaIQobChMI0rj9isO-_gIVqphmAh1lKAozEAAYASAAEgKwDvD_BwE&gclid=EAIaIQobChMI0rj9isO-_gIVqphmAh1lKAozEAAYASAAEgKwDvD_BwE&gclsrc=aw.ds) | 二次元ai绘画                                                 |
-| [getimg](https://getimg.ai/)                                 | 关键词生成图片的AI工具                                       |
-| [dreamlike](https://dreamlike.art/)                          | AI图像生成                                                   |
-| [文心一格](https://yige.baidu.com/)                          | AI艺术和创意辅助平台                                         |
-| [Phygital+](https://phygital.plus/)                          | AI图像生成                                                   |
-| [Beautiful.ai](https://www.beautiful.ai/)                    | AI生成PPT                                                    |
-|                                                              |                                                              |
+### ChatGPT视频
 
-### 机器学习/人工智能
-
-### ChatGPT绘画
-
-| 名称                                                         | 简述                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [midjourney ](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)&&[midjourney 教程](https://www.uisdc.com/midjourney) | AI绘画神器                                                   |
-| [Writesonic](https://writesonic.com/)                        | 人工智能写作辅助工具，以 10 倍的速度为您的博客、广告、电子邮件和网站创建 SEO 优化且无抄袭的内容。 |
-| [PhotoRoom](https://www.photoroom.com/)                      | 擦除任何背景、对象。                                         |
-| [Character.AI](https://beta.character.ai/)                   | AI人工交互。                                                 |
-| [printidea](https://printidea.art/)                          | 只需一句话，让你的文字变成画作。                             |
-| [JJasper](https://www.jasper.ai/)                            | 一款提供照片修复、抠图、画质增强的在线工具                   |
-| [Outpla](https://outplayhq.com/)                             | 人工智能合成创意工具                                         |
-| [cowriter](https://cowriter.org/login)                       | 生成各种各样的设计元素,包括logo、插画、图片壁纸等            |
-| [grammarly](https://www.grammarly.com/a?utm_source=google&utm_medium=cpc&utm_campaign=11862360197&utm_content=487950050355&utm_term=writing%20assistant&matchtype=b&placement=&network=g&utm_source=google&utm_medium=cpc&utm_campaign=11862360197&utm_content=487950050355&utm_term=writing%20assistant&target=&targetid=kwd-298492197778&adgroup=121005009251&device=c&matchtype=b&placement=&network=g&extension=&clickid=EAIaIQobChMI0rj9isO-_gIVqphmAh1lKAozEAAYASAAEgKwDvD_BwE&gclid=EAIaIQobChMI0rj9isO-_gIVqphmAh1lKAozEAAYASAAEgKwDvD_BwE&gclsrc=aw.ds) | 二次元ai绘画                                                 |
-| [getimg](https://getimg.ai/)                                 | 关键词生成图片的AI工具                                       |
-| [dreamlike](https://dreamlike.art/)                          | AI图像生成                                                   |
-| [文心一格](https://yige.baidu.com/)                          | AI艺术和创意辅助平台                                         |
-| [Phygital+](https://phygital.plus/)                          | AI图像生成                                                   |
-| [Beautiful.ai](https://www.beautiful.ai/)                    | AI生成PPT                                                    |
-|                                                              |                                                              |
+| 名称                                      | 简述                                                     |
+| ----------------------------------------- | -------------------------------------------------------- |
+| [Runway](https://runwayml.com/)           | AI 魔法工具                                              |
+| [Cascadeur](https://cascadeur.com/)       | 人工智障辅助关键帧动画软件                               |
+| [Synthesia](https://www.synthesia.io/)    | 人工智障视频生成                                         |
+| [Pollinations](https://pollinations.ai/)  | 文本转视频、图片                                         |
+| [Zubtitle](https://zubtitle.com/)         | 为视频添加字幕和在线编辑视频                             |
+| [Munch](https://www.getmunc/)             | 人工智障提取视频中的最引人入胜、最流行和最有影响力的片段 |
+| [PolyAI](https://poly.ai/)                | 111111语音助手                                           |
+| [Voicemod](https://www.voicemod.net/zh/)  | 语音实时变声器                                           |
+| [Boomy](https://boomy.com/)               | 创建生成音乐与世界分享                                   |
+| [Mubert](https://mubert.com/)             | 人工智障生成音乐                                         |
+| [dreamlike](https://dreamlike.art/)       | 111111AI图像生成                                         |
+| [文心一格](https://yige.baidu.com/)       | AI艺术和创意辅助平台                                     |
+| [Phygital+](https://phygital.plus/)       | AI图像生成                                               |
+| [Beautiful.ai](https://www.beautiful.ai/) | AI生成PPT                                                |
+|                                           |                                                          |
 
 ### 机器学习/人工智能
+
+
+
+
+
+
 
 
 
@@ -182,3 +209,5 @@ awesome-chatgpt-zh
 - [ChatGPT](#ChatGPT)
 
 - [Table of Contents](#ChatGPT)
+
+[ChatGPT](#ChatGPT)
