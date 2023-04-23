@@ -63,7 +63,6 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
   - [jimmylv](jimmylv)
   - [zenvideo](zenvideo)
 
-### ChatGPT创作
 ### [ChatGPT创作](#ChatGPT创作)
 
 | 名称                                                         | 简述                                                         |
@@ -87,8 +86,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 | [longshot](https://www.longshot.ai/)                         | 花费数小时和数小时的时间尝试做对，或者只是利用人工智能的力量来创建人类和搜索引擎喜爱的博客。 |
 | [magickpen](https://magickpen.com/zh/)                       | 由 ChatGPT 强力驱动，让我成为您的智能写作助手。              |
 
-### ChatGPT绘画
-
+### [ChatGPT绘画](#ChatGPT绘画)
 | 名称                                                         | 简述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [midjourney ](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)&&[midjourney 教程](https://www.uisdc.com/midjourney) | AI绘画神器。                                                 |
@@ -106,8 +104,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 | [Phygital+](https://phygital.plus/)                          | AI图像生成。                                                 |
 | [Beautiful.ai](https://www.beautiful.ai/)                    | AI生成PPT。                                                  |
 
-### ChatGPT音频
-
+### [ChatGPT音频](#ChatGPT音频)
 | 名称                                     | 简述                                                   |
 | ---------------------------------------- | ------------------------------------------------------ |
 | [Brain.fm](https://www.brain.fm/)        | 专注、放松、冥想和睡眠，聆听为您的大脑量身打造的音乐。 |
@@ -121,8 +118,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 | [Boomy](https://boomy.com/)              | 创建生成音乐与世界分享。                               |
 | [Mubert](https://mubert.com/)            | 人工智能生成音乐。                                     |
 
-### ChatGPT视频
-
+### [ChatGPT视频](#ChatGPT视频)
 | 名称                                     | 简述                                                       |
 | ---------------------------------------- | ---------------------------------------------------------- |
 | [Runway](https://runwayml.com/)          | AI 魔法工具。                                              |
@@ -134,8 +130,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 | [jimmylv](https://b.jimmylv.cn/)         | 一键总结哔哩哔哩等等声音视频内容                           |
 | [zenvideo](https://zenvideo.qq.com/)     | 欢迎使用腾讯智影，您的专属智能创作工具                     |
 
-## ChatGPT交流
-
+### [ChatGPT交流](#ChatGPT交流)
 欢迎加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！
 
 | 拉你入群(备注ChaGPT-github)                | ChatGPT免费星球                            | 微信社群(微信扫码)                             |
