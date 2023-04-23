@@ -6,7 +6,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 
 知识星球【漏洞攻防】：https://t.zsxq.com/0dQsNoiLX
 
-[![img](https://github.com/CHYbeta/Web-Security-Learning/raw/master/zsxq.png)](https://github.com/CHYbeta/Web-Security-Learning/blob/master/zsxq.png)
+[![img](https://images.zsxq.com/FimCJycLe1FNHu--RT_JLs2R4MC4?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1685548799&s=ytmmjyvttvtytvt&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:trw8MuvjFpSdhtzXtzr4MZMHbKs=)](https://github.com/CHYbeta/Web-Security-Learning/blob/master/zsxq.png)
 
 ## 目录
 
