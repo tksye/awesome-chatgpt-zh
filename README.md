@@ -11,12 +11,10 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 ## 目录
 
 - [ChatGPT创作](#ChatGPT创作)
-
   - [AirOps](#AirOps)
   - [Writesonic](#Writesonic)
   - [Copy](#Copy)
   - [Character.AI](#Character.AI)
-
   - [Fireflies](#Fireflies)
   - [JJasper](#JJasper)
   - [cowriter](#cowriter)
@@ -32,33 +30,19 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
   - [magickpen](magickpen)
 
 - [ChatGPT绘画](#ChatGPT绘画)
-
   - [midjourney](#midjourney)
-
   - [Writesonic](#Writesonic)
-
   - [PhotoRoom](#PhotoRoom)
-
   - [Character.AI](#Character.AI)
-
   - [printidea](#printidea)
-
   - [JJasper](#JJasper)
-
   - [Outpla](#Outpla)
-
   - [cowriter](#cowriter)
-
   - [grammarly](#grammarly)
-
   - [getimg](#getimg)
-
   - [dreamlike](#dreamlike)
-
   - [文心一格](#文心一格)
-
   - [Phygital+](#Phygital+)
-
   - [Beautiful.ai](#Beautiful.ai)
 
 - [ChatGPT音频](#ChatGPT音频)
