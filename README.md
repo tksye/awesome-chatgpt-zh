@@ -41,7 +41,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 
   - [Character.AI](#Character.AI)
 
-  - [printidea](#printidea)
+  - [printidea](typora://app/typemark/window.html#printidea)
 
   - [JJasper](#JJasper)
 
