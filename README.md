@@ -12,7 +12,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 
 - [ChatGPT创作](#ChatGPT创作)
 
-  - [AirOps](https://github.com/CHYbeta/Web-Security-Learning#xss)
+  - [AirOps](#AirOps)
   - [Writesonic](#Writesonic)
   - [Copy](#Copy)
   - [Character.AI](#Character.AI)
