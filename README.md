@@ -133,7 +133,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 ### [ChatGPT交流](#ChatGPT交流)
 欢迎加入ChatGP交流群，与AI领域专家和各行各业的ChatGPT爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！
 
-| 拉你入群(备注ChaGPT-github)                | ChatGPT免费星球                            | 微信社群(微信扫码)                             |
+| 拉你入群(备注ChaGPT-github)                | ChatGPT免费星球                            | 微信社群(200+加微拉)                             |
 | ------------------------------------------ | ------------------------------------ | ---------------------------------------------------- |
 | <img src="https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/dalinvip.png" width="180"/> | <img src="https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/zsxq.png" width="180"/> | <img src="https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/2.png" width="200" /> |
 
