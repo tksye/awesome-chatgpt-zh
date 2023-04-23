@@ -175,5 +175,5 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 
 | 拉你入群(备注ChaGPT-github)                | ChatGPT免费星球                            | 微信社群(微信扫码)                             |
 | ------------------------------------------ | ------------------------------------ | ---------------------------------------------------- |
-| <img src="https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/dalinvip.png" width="180"/> | <img src="[pic/AI5.png](https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/zsxq.png)" width="180"/> | <img src="[pic/星球优惠券-集结地2.png](https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/dalinvip.png)" width="200" /> |
+| <img src="https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/dalinvip.png" width="180"/> | <img src="https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/zsxq.png" width="180"/> | <img src="(https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/dalinvip.png" width="200" /> |
 
