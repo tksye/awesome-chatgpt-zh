@@ -65,7 +65,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 
 ### [ChatGPT创作](#ChatGPT创作)
 
-| 名称                                                         | 简述                                                         |
+| 名称链接                                                         | 项目简述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [AirOps ](https://www.airops.com/)                           | AI工具编写 SQL、文档等的速度提高10倍。                       |
 | [Writesonic](https://writesonic.com/)                        | 人工智能写作辅助工具，以 10 倍的速度为您的博客、广告、电子邮件和网站创建 SEO 优化且无抄袭的内容。 |
@@ -87,7 +87,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 | [magickpen](https://magickpen.com/zh/)                       | 由 ChatGPT 强力驱动，让我成为您的智能写作助手。              |
 
 ### [ChatGPT绘画](#ChatGPT绘画)
-| 名称                                                         | 简述                                                         |
+| 名称链接                                                          | 简述                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [midjourney ](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)&&[midjourney 教程](https://www.uisdc.com/midjourney) | AI绘画神器。                                                 |
 | [Writesonic](https://writesonic.com/)                        | 人工智能写作辅助工具，以 10 倍的速度为您的博客、广告、电子邮件和网站创建 SEO 优化且无抄袭的内容。 |
@@ -105,7 +105,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 | [Beautiful.ai](https://www.beautiful.ai/)                    | AI生成PPT。                                                  |
 
 ### [ChatGPT音频](#ChatGPT音频)
-| 名称                                     | 简述                                                   |
+| 名称链接                                      | 简述                                                   |
 | ---------------------------------------- | ------------------------------------------------------ |
 | [Brain.fm](https://www.brain.fm/)        | 专注、放松、冥想和睡眠，聆听为您的大脑量身打造的音乐。 |
 | [Soundraw](https://soundraw.io/)         | 人工智能生成音乐。                                     |
@@ -119,7 +119,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 | [Mubert](https://mubert.com/)            | 人工智能生成音乐。                                     |
 
 ### [ChatGPT视频](#ChatGPT视频)
-| 名称                                     | 简述                                                       |
+| 名称链接                                      | 简述                                                       |
 | ---------------------------------------- | ---------------------------------------------------------- |
 | [Runway](https://runwayml.com/)          | AI 魔法工具。                                              |
 | [Cascadeur](https://cascadeur.com/)      | 人工智障辅助关键帧动画软件。                               |
