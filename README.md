@@ -6,7 +6,7 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 
 知识星球【ChatGPT与AI分享（限免）】：https://t.zsxq.com/0dQsNoiLX
 
-[![img](https://images.zsxq.com/FimCJycLe1FNHu--RT_JLs2R4MC4?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1685548799&s=ytmmjyvttvtytvt&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:trw8MuvjFpSdhtzXtzr4MZMHbKs= width="200")](https://github.com/CHYbeta/Web-Security-Learning/blob/master/zsxq.png)
+[![img](https://images.zsxq.com/FimCJycLe1FNHu--RT_JLs2R4MC4?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1685548799&s=ytmmjyvttvtytvt&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:trw8MuvjFpSdhtzXtzr4MZMHbKs=)](https://github.com/tksye/awesome-chatgpt-zh/tree/main//zsxq.png)
 
 ## 目录
 
@@ -175,5 +175,5 @@ ChatGPT在线指南，收集了各种ChatGPT资源生产力精选资源清单，
 
 | 拉你入群(备注ChaGPT-github)                | 2000+社群                            | 低门槛付费社群(微信扫码)                             |
 | ------------------------------------------ | ------------------------------------ | ---------------------------------------------------- |
-| <img src="pic/dalinvip.jpeg" width="180"/> | <img src="pic/AI5.png" width="180"/> | <img src="pic/星球优惠券-集结地2.png" width="200" /> |
+| <img src="https://github.com/tksye/awesome-chatgpt-zh/blob/main/%E5%9B%BE%E7%89%87/dalinvip.png" width="180"/> | <img src="pic/AI5.png" width="180"/> | <img src="pic/星球优惠券-集结地2.png" width="200" /> |
 
